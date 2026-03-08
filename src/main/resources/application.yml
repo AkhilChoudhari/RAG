@@ -21,7 +21,7 @@ spring:
         dimensions: 768
 
   datasource:
-    url: jdbc:postgresql://localhost:5432/ragdb
+    url: jdbc:postgresql://localhost:5433/ragdb
     username: postgres
     password: password
     driver-class-name: org.postgresql.Driver
